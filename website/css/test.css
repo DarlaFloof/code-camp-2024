@@ -1,0 +1,9 @@
+*{
+    color:aqua;
+    font-size:xx-large ;
+} 
+img{
+    width:500 px;
+    height: 500px;
+}  
+body{ background-image: url(/images/backgrounds/background-with stars.png);}
